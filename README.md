@@ -1,2 +1,2 @@
 # ejemplo_c3e1
-Ejemplo uso git
+Ejemplo uso git y github
